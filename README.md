@@ -20,7 +20,7 @@ You must have **Python 3** installed on your system.
 
 1. **Clone the Repository (or save the files):**
    ```bash
-   git clone \[YOUR\_REPO\_URL\]  
+   git clone https://github.com/benogania/CLI-Quiz.git
    cd cli-quiz-app
    ```
 3. Install Dependencies:  
