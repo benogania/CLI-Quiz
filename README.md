@@ -18,15 +18,18 @@ You must have **Python 3** installed on your system.
 
 ### **2\. Installation**
 
-1. **Clone the Repository (or save the files):**  
+1. **Clone the Repository (or save the files):**
+   ```bash
    git clone \[YOUR\_REPO\_URL\]  
    cd cli-quiz-app
-
-2. Install Dependencies:  
-   This app requires the colorama library for colorful text output.  
+   ```
+3. Install Dependencies:  
+   This app requires the colorama library for colorful text output.
+```bash
    pip install colorama
+```
 
-3. Ensure Files are Present:  
+5. Ensure Files are Present:  
    Make sure you have both the Python script (quiz\_app.py or similar) and your content file (questions.txt) in the same directory.
 
 ## **✍️ Quiz Content File (questions.txt)**
