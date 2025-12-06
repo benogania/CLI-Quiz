@@ -1,0 +1,27 @@
+C. Object-Oriented Programming - Which of the following is a programming paradigm that uses "objects" containing data and methods? 
+A. Procedural Programming 
+B. Functional Programming 
+C. Object-Oriented Programming 
+D. Assembly Language
+
+B. It is platform-independent - What is a primary advantage of using Java over C++ for certain applications? 
+A. It requires less memory 
+B. It is platform-independent 
+C. It executes faster 
+D. It allows direct memory manipulation
+
+TRUE - SQL (Structured Query Language) is primarily used for managing and querying relational databases.
+
+FALSE - A **Firewall** is a hardware or software device designed to speed up internet browsing.
+
+HTML - The markup language used to create the structure and content of web pages.
+
+Router - A device that forwards data packets between computer networks, creating an overlay internetwork.
+
+Algorithm - A set of well-defined steps to solve a particular problem in a finite amount of time.
+
+Input, Process, Output, Storage - Name the four essential components of the **Information Processing Cycle** in their correct order. [enum:sequence]
+
+Primary Key, Foreign Key, Composite Key - Name three different types of **keys** used to define relationships in a relational database. [enum:random]
+
+CPU, GPU, RAM - Name three hardware components located directly on the computer's **motherboard**. [enum]
